@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoWidget</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="pref_name">com.example.demowidget.PREF</string>
+    <string name="pref_counter">COUNTER</string>
+</resources>
